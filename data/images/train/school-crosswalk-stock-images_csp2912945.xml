@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train4</folder>
+	<filename>school-crosswalk-stock-images_csp2912945.jpg</filename>
+	<path>C:\Users\Woradej\Desktop\train4\school-crosswalk-stock-images_csp2912945.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>slow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>246</xmin>
+			<ymin>20</ymin>
+			<xmax>425</xmax>
+			<ymax>182</ymax>
+		</bndbox>
+	</object>
+</annotation>

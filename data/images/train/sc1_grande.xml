@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train4</folder>
+	<filename>sc1_grande.png</filename>
+	<path>C:\Users\Woradej\Desktop\train4\sc1_grande.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>404</width>
+		<height>404</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>slow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>22</ymin>
+			<xmax>381</xmax>
+			<ymax>370</ymax>
+		</bndbox>
+	</object>
+</annotation>

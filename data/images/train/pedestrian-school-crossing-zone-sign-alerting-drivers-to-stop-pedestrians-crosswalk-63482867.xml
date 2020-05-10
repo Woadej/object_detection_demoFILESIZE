@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train4</folder>
+	<filename>pedestrian-school-crossing-zone-sign-alerting-drivers-to-stop-pedestrians-crosswalk-63482867.jpg</filename>
+	<path>C:\Users\Woradej\Desktop\train4\pedestrian-school-crossing-zone-sign-alerting-drivers-to-stop-pedestrians-crosswalk-63482867.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>228</width>
+		<height>160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>slow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>67</xmin>
+			<ymin>9</ymin>
+			<xmax>158</xmax>
+			<ymax>92</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train4</folder>
+	<filename>p-1695-W16-7_CrosswalkArrow.jpg</filename>
+	<path>C:\Users\Woradej\Desktop\train4\p-1695-W16-7_CrosswalkArrow.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>1204</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>slow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>206</xmin>
+			<ymin>79</ymin>
+			<xmax>618</xmax>
+			<ymax>466</ymax>
+		</bndbox>
+	</object>
+</annotation>

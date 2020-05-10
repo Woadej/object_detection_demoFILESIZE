@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train4</folder>
+	<filename>School-crossing-sign-min.2e16d0ba.fill-800x450.jpg</filename>
+	<path>C:\Users\Woradej\Desktop\train4\School-crossing-sign-min.2e16d0ba.fill-800x450.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>slow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>102</xmin>
+			<ymin>27</ymin>
+			<xmax>434</xmax>
+			<ymax>326</ymax>
+		</bndbox>
+	</object>
+</annotation>

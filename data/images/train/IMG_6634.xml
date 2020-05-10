@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train4</folder>
+	<filename>IMG_6634.jpg</filename>
+	<path>C:\Users\Woradej\Desktop\train4\IMG_6634.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1500</width>
+		<height>1001</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>slow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>627</xmin>
+			<ymin>29</ymin>
+			<xmax>1321</xmax>
+			<ymax>635</ymax>
+		</bndbox>
+	</object>
+</annotation>
