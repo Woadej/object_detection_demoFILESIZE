@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test3</folder>
+	<filename>student-crossing-ahead-warning-sign-drivers-school-zone-92904473.jpg</filename>
+	<path>C:\Users\Woradej\Desktop\test3\student-crossing-ahead-warning-sign-drivers-school-zone-92904473.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>1072</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>slow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>272</xmin>
+			<ymin>120</ymin>
+			<xmax>821</xmax>
+			<ymax>632</ymax>
+		</bndbox>
+	</object>
+</annotation>

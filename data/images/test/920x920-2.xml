@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test3</folder>
+	<filename>920x920-2.jpg</filename>
+	<path>C:\Users\Woradej\Desktop\test3\920x920-2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>920</width>
+		<height>611</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>slow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>465</xmin>
+			<ymin>17</ymin>
+			<xmax>815</xmax>
+			<ymax>291</ymax>
+		</bndbox>
+	</object>
+</annotation>

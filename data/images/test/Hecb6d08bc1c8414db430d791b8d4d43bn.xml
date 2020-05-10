@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test3</folder>
+	<filename>Hecb6d08bc1c8414db430d791b8d4d43bn.jpg</filename>
+	<path>C:\Users\Woradej\Desktop\test3\Hecb6d08bc1c8414db430d791b8d4d43bn.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>622</width>
+		<height>414</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>272</xmin>
+			<ymin>68</ymin>
+			<xmax>448</xmax>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test3</folder>
+	<filename>3566953-guide_fortnite_s10w1_stopsigndestroyed_site.jpg</filename>
+	<path>C:\Users\Woradej\Desktop\test3\3566953-guide_fortnite_s10w1_stopsigndestroyed_site.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1214</width>
+		<height>933</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>356</xmin>
+			<ymin>51</ymin>
+			<xmax>865</xmax>
+			<ymax>525</ymax>
+		</bndbox>
+	</object>
+</annotation>

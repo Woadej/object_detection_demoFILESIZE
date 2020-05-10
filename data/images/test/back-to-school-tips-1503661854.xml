@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test3</folder>
+	<filename>back-to-school-tips-1503661854.jpg</filename>
+	<path>C:\Users\Woradej\Desktop\test3\back-to-school-tips-1503661854.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>676</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>slow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>572</xmin>
+			<ymin>54</ymin>
+			<xmax>1109</xmax>
+			<ymax>610</ymax>
+		</bndbox>
+	</object>
+</annotation>

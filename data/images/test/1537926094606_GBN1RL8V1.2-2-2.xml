@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test3</folder>
+	<filename>1537926094606_GBN1RL8V1.2-2-2.jpg</filename>
+	<path>C:\Users\Woradej\Desktop\test3\1537926094606_GBN1RL8V1.2-2-2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>576</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stop</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>103</xmin>
+			<ymin>1</ymin>
+			<xmax>516</xmax>
+			<ymax>482</ymax>
+		</bndbox>
+	</object>
+</annotation>
