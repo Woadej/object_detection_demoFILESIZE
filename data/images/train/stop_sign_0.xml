@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train4</folder>
+	<filename>stop_sign_0.jpg</filename>
+	<path>C:\Users\Woradej\Desktop\train4\stop_sign_0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>219</xmin>
+			<ymin>42</ymin>
+			<xmax>713</xmax>
+			<ymax>543</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train4</folder>
+	<filename>traffic-signs-school-xing.jpg</filename>
+	<path>C:\Users\Woradej\Desktop\train4\traffic-signs-school-xing.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>294</width>
+		<height>293</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>slow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>58</xmin>
+			<ymin>15</ymin>
+			<xmax>236</xmax>
+			<ymax>184</ymax>
+		</bndbox>
+	</object>
+</annotation>

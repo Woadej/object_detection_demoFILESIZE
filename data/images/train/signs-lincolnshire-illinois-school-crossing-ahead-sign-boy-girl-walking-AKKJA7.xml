@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train4</folder>
+	<filename>signs-lincolnshire-illinois-school-crossing-ahead-sign-boy-girl-walking-AKKJA7.jpg</filename>
+	<path>C:\Users\Woradej\Desktop\train4\signs-lincolnshire-illinois-school-crossing-ahead-sign-boy-girl-walking-AKKJA7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>865</width>
+		<height>1390</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>slow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>54</xmin>
+			<ymin>242</ymin>
+			<xmax>834</xmax>
+			<ymax>902</ymax>
+		</bndbox>
+	</object>
+</annotation>

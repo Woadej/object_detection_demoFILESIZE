@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train4</folder>
+	<filename>Untitled-40.png</filename>
+	<path>C:\Users\Woradej\Desktop\train4\Untitled-40.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>636</width>
+		<height>302</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>321</xmin>
+			<ymin>88</ymin>
+			<xmax>362</xmax>
+			<ymax>130</ymax>
+		</bndbox>
+	</object>
+</annotation>

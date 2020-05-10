@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train4</folder>
+	<filename>Stop_Sign_in_Australia_(cropped).jpg</filename>
+	<path>C:\Users\Woradej\Desktop\train4\Stop_Sign_in_Australia_(cropped).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1010</width>
+		<height>2038</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>163</xmin>
+			<ymin>150</ymin>
+			<xmax>729</xmax>
+			<ymax>716</ymax>
+		</bndbox>
+	</object>
+</annotation>

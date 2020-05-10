@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train4</folder>
+	<filename>stop-sign-at-a-junction-on-a-quiet-suburban-streetwith-trees-and-no-CX5AGX.jpg</filename>
+	<path>C:\Users\Woradej\Desktop\train4\stop-sign-at-a-junction-on-a-quiet-suburban-streetwith-trees-and-no-CX5AGX.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>863</width>
+		<height>1390</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>299</xmin>
+			<ymin>279</ymin>
+			<xmax>540</xmax>
+			<ymax>509</ymax>
+		</bndbox>
+	</object>
+</annotation>

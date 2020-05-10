@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train4</folder>
+	<filename>SEGELZ4MRBCURG2KXNLBDMQUEA.jpg</filename>
+	<path>C:\Users\Woradej\Desktop\train4\SEGELZ4MRBCURG2KXNLBDMQUEA.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>415</width>
+		<height>311</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>360</xmin>
+			<ymin>85</ymin>
+			<xmax>402</xmax>
+			<ymax>129</ymax>
+		</bndbox>
+	</object>
+</annotation>
