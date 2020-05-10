@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train4</folder>
+	<filename>image.ashx.jpeg</filename>
+	<path>C:\Users\Woradej\Desktop\train4\image.ashx.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>451</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>slow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>313</xmin>
+			<ymin>6</ymin>
+			<xmax>621</xmax>
+			<ymax>319</ymax>
+		</bndbox>
+	</object>
+</annotation>
